@@ -11,7 +11,7 @@ The integration automatically sets up a tunnel required to get started testing
 with it. For that purpose, it uses Sauce Connect.
 
 Note that due to security restrictions, the Sauce Labs addon is not available on pull
-request builds unless you use the [JWT Addon](../jwt).
+request builds unless you use the [JWT Addon](jwt).
 
 ## Setting up Sauce Connect
 
