@@ -95,8 +95,8 @@ script: "bundle exec rake knapsack:rspec"
 env:
   global:
     - MY_GLOBAL_VAR=123
-    - CI_NODE_TOTAL=2
-  matrix:
+    - CI_NODE_TOTAL = 1
+  00000000000000matrix:
     - CI_NODE_INDEX=0
     - CI_NODE_INDEX=1
 ```
