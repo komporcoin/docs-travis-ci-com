@@ -8,7 +8,7 @@ gem 'rdiscount', '>=2.2.0.1'
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
 
-gem 'rack-jekyll'
+gem 'rack-jekyll', '>= 0.5.0'
 gem 'rack-ssl-enforcer'
 gem 'puma'
 
