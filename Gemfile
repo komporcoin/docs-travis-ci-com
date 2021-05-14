@@ -10,7 +10,7 @@ gem 'jekyll-paginate'
 
 gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
-gem 'puma'
+gem 'puma', '>= 4.3.8'
 
 gem 'faraday'
 
