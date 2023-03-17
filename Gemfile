@@ -16,4 +16,4 @@ gem 'faraday'
 
 gem 'rake'
 
-gem 'html-proofer', '~> 3.0'
+gem 'html-proofer', '~> 3.12', '>= 3.12.0'
