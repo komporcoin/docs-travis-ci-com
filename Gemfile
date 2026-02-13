@@ -12,7 +12,7 @@ gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
 gem 'puma'
 
-gem 'faraday'
+gem 'faraday', '>= 2.14.1'
 
 gem 'rake'
 
